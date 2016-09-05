@@ -2,8 +2,8 @@ package com.mattbarta.decision4j.trees.decisiontree;
 
 import com.mattbarta.decision4j.trees.dao.CandidateCollection;
 import com.mattbarta.decision4j.trees.dao.CandidateSplit;
-import com.mattbarta.decisoin4j.trees.RandomFeatureSelector;
-import com.mattbarta.decisoin4j.trees.Tree;
+import com.mattbarta.decision4j.trees.RandomFeatureSelector;
+import com.mattbarta.decision4j.trees.Tree;
 import com.mattbarta.decision4j.trees.dao.FVSortedBlock;
 import com.mattbarta.decision4j.trees.splitters.ISplitter;
 import java.util.ArrayList;

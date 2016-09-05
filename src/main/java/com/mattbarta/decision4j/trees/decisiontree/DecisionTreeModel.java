@@ -1,6 +1,6 @@
 package com.mattbarta.decision4j.trees.decisiontree;
 
-import com.mattbarta.decisoin4j.trees.Tree;
+import com.mattbarta.decision4j.trees.Tree;
 import com.mattbarta.decision4j.trees.io.StringIO;
 import com.mattbarta.decision4j.trees.dao.CandidateSplit;
 import java.io.File;

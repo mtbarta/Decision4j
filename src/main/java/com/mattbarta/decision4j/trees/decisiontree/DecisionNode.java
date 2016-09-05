@@ -1,6 +1,6 @@
 package com.mattbarta.decision4j.trees.decisiontree;
 
-import com.mattbarta.decisoin4j.trees.Node;
+import com.mattbarta.decision4j.trees.Node;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;

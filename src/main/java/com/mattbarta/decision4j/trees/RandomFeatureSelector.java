@@ -1,4 +1,4 @@
-package com.mattbarta.decisoin4j.trees;
+package com.mattbarta.decision4j.trees;
 
 import java.util.HashSet;
 import java.util.List;
